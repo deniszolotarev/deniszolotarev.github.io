@@ -36,3 +36,8 @@ layout: default
 <iframe width="650" height="490" src="https://www.youtube.com/embed/KDsdmquHHuM" frameborder="0" allowfullscreen></iframe>
 
 Пишите, звоните — я всегда рад пообщаться!
+
+**Telegram**: [@dionisy\_lotare](https://t.me/dionisy_lotare)
+
+**Телефон / Whatsapp**: +995 500-504-327
+
