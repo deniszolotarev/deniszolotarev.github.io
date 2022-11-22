@@ -21,7 +21,7 @@
 title: Denis Zolotarev, acting coach
 email: d_zolotarev@mail.ru
 description: >- # this means to ignore newlines until "baseurl:"
-  Телеграм — <a href="http://t.me/dionisy_lotare">@dionisy_lotare</a>
+  Телеграм — @dionisy_lotare
   Телефон — +995 500-504-327
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
